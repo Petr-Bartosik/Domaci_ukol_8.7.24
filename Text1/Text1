@@ -1,0 +1,6 @@
+Takto lze klasifikovat všechny soubory:
+
+hlavní - jejichž přítomnost je povinná pro fungování operačního systému nebo jiného softwaru;
+servisní - zodpovědné za různé konfigurace hlavních souborů;
+pracovní - hlavní soubory pracují se svým obsahem, mění a vytvářejí data;
+dočasné - někdy se vytvářejí při práci některých hlavních souborů pro ukládání mezivýsledků jejich práce.

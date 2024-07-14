@@ -1,0 +1,5 @@
+Počet znaků: 311
+Počet řádků: 6
+Počet samohlásek: 100
+Počet souhlásek: 149
+Počet číslic: 0
