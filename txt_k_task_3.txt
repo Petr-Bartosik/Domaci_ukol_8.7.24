@@ -1,0 +1,3 @@
+Takto lze klasifikovat všechny soubory:
+
+hlavní - jejichž přítomnost je povinná pro fungování operačního systému nebo jiného softwaru;
